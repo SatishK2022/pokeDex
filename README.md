@@ -1,4 +1,4 @@
-# Pokedex App README
+# PokeDex App 
 
 The Pokedex App is a React application that utilizes the PokeAPI to fetch and display information about different Pokémon species. The app presents Pokémon cards containing the name and image of each Pokémon. Users can click on a card to access more comprehensive details about the chosen Pokémon.
 
