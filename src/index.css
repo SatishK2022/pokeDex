@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    background: linear-gradient(to top right, #2ec4ff, #ffffff);
+    background-attachment: fixed;
+}
+
+a{
+    text-decoration: none;
+    color: #000;
+}
