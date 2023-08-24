@@ -19,7 +19,7 @@ The Pokedex App is a React application that utilizes the PokeAPI to fetch and di
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/pokedex-react-app.git
+git clone https://github.com/SatishK2022/pokeDex.git
 ```
 2. Navigate to the project directory:
 ```bash
